@@ -2,7 +2,7 @@
 
 ## Question - 1
 
-Files for this question are in the folder 'audioEqualizer'. The files include noisy.wav, bass.wav.
+Files for this question are in the folder 'audioEqualizer'. The files include noisy.wav, bass.mp3.
 
 ## Question - 2
 
@@ -10,4 +10,4 @@ Files for this question are in the folder 'stumpMic'. The files include 1.mp4, 2
 
 ## Question - 3
 
-Files for this question are in the folder 'vocalInstrumental'. The files include music.wav.
+Files for this question are in the folder 'vocalInstrumental'. The files include music.mp3.
